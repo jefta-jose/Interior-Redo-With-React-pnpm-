@@ -18,12 +18,12 @@ const AboutSection = () => {
                  />
             </motion.div>
 
-            <div className=" items-center flex flex-col">
+            <div className=" items-center flex flex-col ">
                 <motion.h2
                     initial="offscreen"
                     whileInView={"onscreen"}
                     variants={titleVariants}
-                className="px-12 py-4 text-3xl font-extrabold leading-tight lg:text-4xl"
+                className="px-12 py-4 max-sm:text-center text-3xl font-extrabold leading-tight lg:text-4xl"
                 >
                     We Are An Awards Winning Company
                 </motion.h2>

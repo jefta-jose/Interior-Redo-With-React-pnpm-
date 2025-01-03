@@ -57,7 +57,7 @@ const CatalogueSection = () => {
                 />
               </div>
 
-              <div className=' absolute top-0 p-8 bg-white bg-opacity-60 backdrop-blur m-12'>
+              <div className=' absolute top-0 p-8 bg-white bg-opacity-60 backdrop-blur m-12 dark:bg-gray-500 dark:text-black rounded-sm'>
                 <div className='flex justify-between pb-4'>
                   <p>{item.category}</p>
                   <span>{item.id}</span>

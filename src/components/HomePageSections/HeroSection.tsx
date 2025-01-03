@@ -51,7 +51,7 @@ const HeroSection = () => {
           src="/src/assets/image/hall.png" alt="hall.png"
           width={800}
           height={500}
-          className=" absolute md:right-[3rem] right-[7rem] 2xl:right-[34rem] xl:right-[7rem] xl:h-[384px] xl:w-[600px] lg:w-[420px] lg:pt-10 hidden lg:block"
+          className=" absolute md:right-[3rem] right-[7rem] 2xl:right-[11rem] xl:right-[7rem] xl:h-[384px] xl:w-[600px] lg:w-[420px] lg:pt-10 hidden lg:block"
          />
       </div>
     </div>
