@@ -42,7 +42,7 @@ const CatalogueSection = () => {
     },
 ]
   return (
-    <div className='grid gap-8 lg:grid-cols-4 md:grid-cols-2 lg:gap-0 divide-gray-300 lg:divide-x'>
+    <div className=' container mx-auto grid gap-8 lg:grid-cols-4 md:grid-cols-2 lg:gap-0 divide-gray-300 lg:divide-x'>
       {
         items.map((item)=>{
           return(
